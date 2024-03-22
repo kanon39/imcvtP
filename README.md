@@ -12,7 +12,7 @@ Download using pip via pypi.
 ```bash
 $ pip install 'imcvtP' --upgrade
   or
-$ pip install https://github.com/kanon39/imcvtP.git
+$ pip install git+https://github.com/kanon39/imcvtP.git
 ```
 (Mac/homebrew users may need to use ``pip3``)
 
